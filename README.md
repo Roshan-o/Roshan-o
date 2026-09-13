@@ -22,16 +22,6 @@ I'm a student at the **International Institute of Information Technology, Hydera
 I have worked on lot of projects few are:
 * **CodeLite(Currently working)** - A platform that will unite all the algorithm related resources at one place, which is heplful for people who want to start thier DSA or CP journey
 * **DocPilot** — Document intelligence platform with RAG, AI-assisted editing, context budgeting, and cross-document synthesis.
-* **Distributed Network File System** — Fault-tolerant distributed file system using C, TCP sockets, multithreading, replication, and a Trie-based naming server.
-* **Buy Sell** — Full-stack e-commerce application built using React, Express, and MongoDB.
-* **Churn Probability Predictor** — ML application using XGBoost, MLP, and SHAP-based explainability.
-* there many more side project which I built to learn in my github
-
-## 🏆 Achievements
-
-* 🏅 Merit List Recognition for academic excellence — **IIIT Hyderabad, Year 1 & 2**
-* 🏆 **Top 5 Teams** — Megathon 2025
-* 🎨 Design Team Member — **Entrepreneurship Cell, IIIT Hyderabad**
 
 ## 🎯 Interests
 
@@ -39,18 +29,23 @@ I have worked on lot of projects few are:
 * Distributed Systems
 * Software Engineering
 
----
-
-## 🌐 Socials
-
-[LinkedIn](https://www.linkedin.com/in/kalluri-roshan-lal/) • [Email](mailto:roshanlalkalluri@gmail.com)
-
 # 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🌐 Socials
+
+[LinkedIn](https://www.linkedin.com/in/kalluri-roshan-lal/) • [Email](mailto:roshanlalkalluri@gmail.com)
+
 
 🌱 Always learning, building, and exploring new technologies.
 
